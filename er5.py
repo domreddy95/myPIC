@@ -35,7 +35,7 @@ db = (1.0*vth)/wp                                    #debye length
 t0 = 0.0
 tf = 50.0
 #dt = 0.1
-dt = (1.0)/(wp*10)
+dt = (1.0)/(wp*10) 
 print('time step = '+ str(dt))
 T = int((tf-t0)/dt)
 
