@@ -1,2 +1,2 @@
 # myPIC
-all th e pic codes ive developed during my master's
+all the pic codes ive developed during my master's
